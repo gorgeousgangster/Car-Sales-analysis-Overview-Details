@@ -41,5 +41,3 @@ A car dealership company wants to create a car sales report to effectively track
 <img width="1902" height="1063" alt="Screenshot 2025-11-23 133325" src="https://github.com/user-attachments/assets/71e9fd4c-f4aa-4f0a-9772-744df1c5a645" />
 - Dashboard Details of car sales
 <img width="1902" height="1066" alt="Screenshot 2025-11-23 133345" src="https://github.com/user-attachments/assets/45d60c7e-b1bb-4ab5-8753-5cad8d8ac97c" />
-
-  
